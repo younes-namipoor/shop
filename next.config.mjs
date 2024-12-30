@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images :{
-        domains:["startersites.io"]
+        domains:["startersites.io" ,"uploadkon.ir"]
     }
 };
 
