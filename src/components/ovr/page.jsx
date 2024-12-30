@@ -62,7 +62,7 @@ export default function Ovr() {
         </div>
         <div className="w-full md:w-[50%]">
           <Image
-            src="/7.png"
+            src="https://uploadkon.ir/uploads/051d30_247.png"
             alt=""
             width={300}
             height={300}

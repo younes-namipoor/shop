@@ -106,7 +106,7 @@ export default function Page() {
         </div>
       </div>
       <Image
-        src="/2.png"
+        src="https://uploadkon.ir/uploads/dbac30_242.png"
         alt=""
         width={500}
         height={500}

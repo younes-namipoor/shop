@@ -9,7 +9,7 @@ export default function InfoPro() {
           <h3 className="font-semibold capitalize text-[22px]">labtops</h3>
           <h6 className="text-[#9E9E9E] mt-5 text-[13px]">245</h6>
           <Image
-            src="/3.png"
+            src="https://uploadkon.ir/uploads/a51130_243.png"
             alt=""
             width={200}
             height={200}
@@ -23,7 +23,7 @@ export default function InfoPro() {
             <h3 className="font-semibold capitalize text-[22px]">drones</h3>
             <h6 className="text-[#9E9E9E] mt-5 text-[13px]">28</h6>
             <Image
-              src="/4.png"
+              src="https://uploadkon.ir/uploads/4d0430_244.png"
               alt=""
               width={200}
               height={200}
@@ -36,7 +36,7 @@ export default function InfoPro() {
             <h3 className="font-semibold capitalize text-[22px]">smartphone</h3>
             <h6 className="text-[#9E9E9E] mt-5 text-[13px]">273</h6>
             <Image
-              src="/5.png"
+              src="https://uploadkon.ir/uploads/fa6130_245.png"
               alt=""
               width={200}
               height={200}
@@ -49,7 +49,7 @@ export default function InfoPro() {
             <h3 className="font-semibold capitalize text-[22px]">gaming</h3>
             <h6 className="text-[#9E9E9E] mt-5 text-[13px]">25</h6>
             <Image
-              src="/6.png"
+              src="https://uploadkon.ir/uploads/686330_246.png"
               alt=""
               width={200}
               height={200}

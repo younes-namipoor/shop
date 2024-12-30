@@ -50,7 +50,7 @@ export default function Page({ params: paramsPromise }) {
   if (!params || !data) {
     return (
       <main className="w-full h-[100vh] flex flex-wrap justify-center items-center">
-        <Image src="/9.gif" alt="" height={500} width={500} />
+        <Image src="https://uploadkon.ir/uploads/76d530_249.gif" alt="" height={500} width={500} />
       </main>
     );
   }
